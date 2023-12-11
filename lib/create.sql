@@ -1,0 +1,1 @@
+CREATE TABLE bears (id INT AUTO_INCREMENT, name TEXT, age INT, sex TEXT, color TEXT, temperament TEXT, alive BOOLEAN);
